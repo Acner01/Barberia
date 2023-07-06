@@ -17,7 +17,7 @@
             <h1>Barberia</h1>
 
             <p> Bienvenidos a nuestra barberias, Estamus a su dispocición </p>
-                <a href="#">Registrate</a>
+                <a href="FormularioRegistro.php">Registrate</a>
                 <a href="#">Entrar</a>
         </div>
     
