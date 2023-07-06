@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="stylos.css">
+    <link rel="stylesheet" type="text/css" href="estilos.css">
     <title>Document</title>
 </head>
 <body>
@@ -14,7 +14,7 @@
     <div class="banner">
         <div class="capa"></div>
         <div class="info">
-            <h1>Barberia</h1>
+            <h1>Nombre</h1>
 
             <p> Bienvenidos a nuestra barberias, Estamus a su dispocición </p>
                 <a href="FormularioRegistro.php">Registrate</a>
